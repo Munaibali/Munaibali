@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Developer Software Solution Specialist <br>👯 I’m looking to collaborate on New Product Startups<br>🤝 I’m looking for Long Term Projects<br>🌱 I’m currently workinging on Artificial Intelligence <br>💬 Let's Chat
+🔭 I’m a Full Stack Developer Software Solution Specialist <br>👯 I’m looking to collaborate on Startup Product <br>🤝 I’m looking for Long Term Projects<br>🌱 I’m currently workinging on Artificial Intelligence <br>💬 Let's Chat
 
 
 # 💻 Tech Stack:
